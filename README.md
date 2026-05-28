@@ -7,7 +7,7 @@ Meu nome é joao pedro, tenho 16 ano e faço aniversario dia 11/03, atualmente e
 - arquitetura de redes com IOT
   (1° semestre)
 
-  # Visão para o futuro
+ # Visão para o futuro
 Mesmo não sendo uma área que eu pretendo focar, ainda tenho interesse e curiosidade sobre como funciona e entender a tecnologia de perto  !
 
   # curiosidade
